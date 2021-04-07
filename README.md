@@ -22,4 +22,4 @@
 
 11. Replaced <div class="footer"> with just <footer> and applied the CSS styles for <div class="footer"> to the element <footer> instead.
 
-12. Changed <h2> in the footer to <h4> for more logical headers throughout the page.
+12. Changed h2 in the footer to h4 for more logical headers throughout the page.
